@@ -1,0 +1,6 @@
+To run:
+
+install maven (http://maven.apache.org/download.html)
+run 'mvn -Dcucumber.installGems=true cuke4duke:cucumber'
+
+For more information see the post at http://www.goodercode.com/wp/using-cucumber-tests-with-maven-and-java/
