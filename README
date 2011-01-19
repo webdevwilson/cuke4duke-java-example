@@ -1,3 +1,5 @@
+This is an example project using Java to run Cucumber tests.
+
 To run:
 
 install maven (http://maven.apache.org/download.html)
